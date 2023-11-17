@@ -1,4 +1,5 @@
-#DOUYU
+#EXTM3U
+
 #EXTINF:-1 group-title="斗鱼DOTA2" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201803/23/17/faa711e232041d7525a1bd695bf8fa8e_big.jpg",yyfyyf
 https://tv.iill.top/douyu/9999
 #EXTINF:-1 group-title="斗鱼DOTA2" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201804/06f34dadc391956ce43e714464a91671_big.jpg",谢彬DD
@@ -26,7 +27,7 @@ https://tv.iill.top/douyu/6829849
 
 
 
-#HUYA
+
 #EXTINF:-1 group-title="虎牙DOTA2" tvg-logo="https://huyaimg.msstatic.com/avatar/1028/75/850a8c5d7b1c9185e1ab3a063b3cc4_180_135.jpg?472282",XinQ
 https://epg.112114.eu.org/huya/128465
 #EXTINF:-1 group-title="虎牙DOTA2" tvg-logo="https://huyaimg.msstatic.com/avatar/1034/97/1502af01ba926dca56f34f6ea22f22_180_135.jpg?472282",fydaddy
